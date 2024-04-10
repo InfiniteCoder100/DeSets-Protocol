@@ -47,8 +47,13 @@ export const Footer = () => {
         <ul className="menu menu-horizontal w-full">
           <div className="flex justify-center items-center gap-2 text-sm w-full">
             <div className="text-center">
-              <a href="https://github.com/scaffold-eth/se-2" target="_blank" rel="noreferrer" className="link">
-                Fork me
+              <a
+                href="https://github.com/InfiniteCoder100/DeSets-Protocol"
+                target="_blank"
+                rel="noreferrer"
+                className="link"
+              >
+                Github
               </a>
             </div>
             <span>·</span>
@@ -58,7 +63,7 @@ export const Footer = () => {
               </p>
               <a
                 className="flex justify-center items-center gap-1"
-                href="https://buidlguidl.com/"
+                href="https://ethglobal.com/events/scaling2024"
                 target="_blank"
                 rel="noreferrer"
               >
